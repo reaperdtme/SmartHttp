@@ -9,6 +9,10 @@ Smart Http is an easy, effective android http library.
   - Simple client extension to implement
   - Supports https and file uploads
 
+Available at:
+
+  - Senti Repo: http://git.senti.in/senti/smarthttp
+  - Github Repo: https://github.com/zedknight/SmartHttp
 
 Usage
 --------------
